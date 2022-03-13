@@ -1,2 +1,2 @@
 # Playlist
- álbum de músicas que você que gosto e que refletem aspectos da minha vida.
+ álbum de músicas que gosto e que refletem aspectos da minha vida.
